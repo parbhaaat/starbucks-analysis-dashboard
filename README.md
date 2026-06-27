@@ -18,16 +18,10 @@ The dashboard enables users to interactively explore beverage categories, compar
 > Add your dashboard screenshot here
 
 ```
-images/dashboard.png
+<img width="1287" height="727" alt="Screenshot 2026-06-27 210327" src="https://github.com/user-attachments/assets/ab019e9d-ea97-4991-ab2a-2cff92f5cedf" />
+
 ```
 
-or
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
-
----
 
 # 🎯 Objectives
 
@@ -41,20 +35,16 @@ or
 
 # 📂 Dataset
 
-This project uses **two datasets**:
+This project uses:
 
-### 1. Directory Dataset
-Contains beverage metadata including:
+### 1. Starbucks Data Dataset
+
+Contains nutritional information such as:
 
 - Beverage Category
 - Beverage Name
 - Beverage Preparation
 - Product Information
-
-### 2. Starbucks Data Dataset
-
-Contains nutritional information such as:
-
 - Calories
 - Total Fat
 - Sugar
@@ -160,53 +150,6 @@ The dashboard helps answer important business questions such as:
 
 ---
 
-# 📁 Project Structure
-
-```
-Starbucks-Nutrition-Dashboard/
-│
-├── Dataset/
-│   ├── directory.csv
-│   └── starbucks_data.csv
-│
-├── Dashboard/
-│   └── Starbucks Dashboard.pbix
-│
-├── Images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
-# 🚀 How to Use
-
-1. Clone this repository.
-
-```
-git clone https://github.com/yourusername/Starbucks-Nutrition-Dashboard.git
-```
-
-2. Open the `.pbix` file using Power BI Desktop.
-
-3. Refresh the data if necessary.
-
-4. Interact with slicers and visuals to explore nutritional insights.
-
----
-
-# 📌 Future Improvements
-
-- Add BMI and health score indicators
-- Include beverage pricing analysis
-- Build mobile-optimized dashboard
-- Add drill-through pages
-- Include seasonal beverage comparisons
-- Integrate live data updates
-
----
-
 # 📷 Dashboard Highlights
 
 ✔ Interactive Dashboard
@@ -228,10 +171,6 @@ git clone https://github.com/yourusername/Starbucks-Nutrition-Dashboard.git
 **Parbhaat Sharma**
 
 Aspiring Data Analyst passionate about transforming raw data into actionable business insights through Power BI, SQL, Excel, and Python.
-
-**GitHub:** https://github.com/yourusername
-
-**LinkedIn:** https://linkedin.com/in/yourprofile
 
 ---
 
