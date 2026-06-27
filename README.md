@@ -124,11 +124,9 @@ The dashboard helps answer questions such as:
 
 | Tool | Purpose |
 |------|---------|
-| Microsoft Excel | Data Cleaning |
-| Power Query | Data Transformation |
+| Power Query | Data Cleaning & Transformation |
 | Power BI | Dashboard Development |
 | DAX | Measures & Calculations |
-| Data Modeling | Relationship Management |
 
 ---
 
