@@ -157,19 +157,6 @@ The dashboard helps answer questions such as:
 
 ---
 
-## 👨‍💻 Author
-
-**Parbhaat Sharma**
-
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights using **Power BI**, **SQL**, **Excel**, and **Python**.
-
-### Connect With Me
-
-- LinkedIn: *(Add your profile link)*
-- GitHub: *(Add your GitHub profile link)*
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving the repository a **Star ⭐**. It helps others discover the project and supports my work.
