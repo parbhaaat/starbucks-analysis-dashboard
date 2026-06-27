@@ -2,40 +2,46 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Transformation-742774?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Measures-00599C?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+
+---
 
 ## 📌 Project Overview
 
-This project analyzes the nutritional information of Starbucks beverages using **Power BI**. The objective was to clean, transform, and visualize beverage nutrition data to uncover meaningful insights into calories, sugar, caffeine, fat, and protein.
+The **Starbucks Beverage Nutrition Dashboard** is an interactive **Power BI** project that analyzes the nutritional information of Starbucks beverages. The project focuses on cleaning raw datasets, transforming data, building an optimized data model, and creating an interactive dashboard that helps users explore beverage nutrition through meaningful visualizations.
 
-The dashboard enables users to interactively explore beverage categories, compare nutritional values, and identify healthier or high-calorie drink options through dynamic filters and visual storytelling.
-
----
-
-## 📷 Dashboard Preview
-
-<img width="1287" height="727" alt="Screenshot 2026-06-27 210327" src="https://github.com/user-attachments/assets/ab019e9d-ea97-4991-ab2a-2cff92f5cedf" />
+The dashboard provides insights into calories, sugar, caffeine, fat, protein, and other nutritional metrics, enabling users to compare beverages across different categories and identify healthier or high-calorie drink options.
 
 ---
 
-# 🎯 Objectives
+## 📸 Dashboard Preview
 
-- Analyze Starbucks beverage nutrition.
-- Clean and prepare raw datasets for reporting.
+<p align="center">
+  <img src="images/dashboard.png" alt="Starbucks Beverage Nutrition Dashboard" width="100%">
+</p>
+
+> **Note:** Replace `images/dashboard.png` with your uploaded dashboard screenshot or GitHub image URL.
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze Starbucks beverage nutrition data.
+- Clean and prepare raw datasets for analysis.
 - Build an interactive Power BI dashboard.
 - Identify nutritional trends across beverage categories.
-- Create an easy-to-understand visual story using data.
+- Compare beverages using multiple nutritional metrics.
+- Present insights through effective data storytelling.
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 
-This project uses:
+The project uses two datasets that were cleaned, transformed, and combined into a single analytical model.
 
-### 1. Starbucks Data Dataset
-
-Contains nutritional information such as:
+### Dataset Includes
 
 - Beverage Category
 - Beverage Name
@@ -45,36 +51,32 @@ Contains nutritional information such as:
 - Total Fat
 - Sugar
 - Protein
-- Caffeine
 - Carbohydrates
+- Caffeine
 - Sodium
 - Fiber
 
-Both datasets were combined using appropriate relationships to create a complete analytical model.
-
 ---
 
-# 🧹 Data Cleaning & Transformation
+## 🧹 Data Cleaning & Transformation
 
-The datasets required several preprocessing steps before visualization.
+The raw datasets required preprocessing before visualization.
 
-### Cleaning Performed
+### Cleaning Steps
 
 - Removed duplicate records
-- Checked and handled missing values
+- Handled missing values
 - Corrected inconsistent category names
 - Standardized text formatting
 - Removed unnecessary columns
-- Verified data types
+- Verified and corrected data types
 - Merged both datasets
-- Created relationships between tables
-- Optimized data model for reporting
+- Created table relationships
+- Optimized the data model for reporting
 
 ---
 
-# 📊 Dashboard Features
-
-The dashboard includes:
+## 📊 Dashboard Features
 
 ### KPI Cards
 
@@ -94,50 +96,52 @@ The dashboard includes:
 - Top 5 Highest Fat Beverages
 - Beverage Category Distribution
 - Average Caffeine by Category
-- Top Highest Calorie Beverages
+- Highest Calorie Beverages
 
 ---
 
-# 📖 Story Told by the Dashboard
+## 📖 Business Questions Answered
 
-The dashboard helps answer important business questions such as:
+The dashboard helps answer questions such as:
 
 - Which beverages contain the highest calories?
-- Which categories have the most caffeine?
-- Which drinks are highest in fat?
+- Which beverage category has the highest caffeine?
+- Which drinks contain the most fat?
 - Which beverage preparations are healthier?
 - How are beverages distributed across categories?
-- What nutritional patterns exist across Starbucks products?
+- What nutritional patterns exist across Starbucks beverages?
 
 ---
 
-# 💡 Key Insights
+## 💡 Key Insights
 
-- Coffee beverages contain the highest average caffeine.
-- White Chocolate Mocha is among the highest-calorie drinks.
-- Frappuccino variants generally contain more calories and sugar.
-- Smoothies have comparatively lower caffeine.
-- Beverage preparation significantly affects nutritional values.
-
----
-
-# 🛠 Tools Used
-
-- Microsoft Power BI
-- Microsoft Excel
-- Power Query
-- DAX
-- Data Modeling
+- Coffee beverages have the highest average caffeine.
+- White Chocolate Mocha ranks among the highest-calorie drinks.
+- Frappuccino beverages generally contain higher calories and sugar.
+- Smoothies contain comparatively lower caffeine.
+- Beverage preparation significantly impacts nutritional values.
 
 ---
 
-# 📈 Skills Demonstrated
+## 🛠 Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel | Data Cleaning |
+| Power Query | Data Transformation |
+| Power BI | Dashboard Development |
+| DAX | Measures & Calculations |
+| Data Modeling | Relationship Management |
+
+---
+
+## 📈 Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
 - Data Modeling
 - Power Query
-- DAX Measures
+- DAX
 - Dashboard Design
 - Data Visualization
 - Business Intelligence
@@ -146,28 +150,31 @@ The dashboard helps answer important business questions such as:
 
 ---
 
-# 📷 Dashboard Highlights
+## 📷 Dashboard Highlights
 
-✔ Interactive Dashboard
-
-✔ Dynamic Filtering
-
-✔ Business Insights
-
-✔ Data Storytelling
-
-✔ Professional UI Design
-
-✔ Nutrition Analysis
+- ✅ Interactive Dashboard
+- ✅ Dynamic Filters
+- ✅ KPI Cards
+- ✅ Business Insights
+- ✅ Data Storytelling
+- ✅ Professional UI Design
+- ✅ Nutrition Analysis
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Parbhaat Sharma**
 
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights through Power BI, SQL, Excel, and Python.
+Aspiring Data Analyst passionate about transforming raw data into actionable business insights using **Power BI**, **SQL**, **Excel**, and **Python**.
+
+### Connect With Me
+
+- LinkedIn: *(Add your profile link)*
+- GitHub: *(Add your GitHub profile link)*
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
+## ⭐ Support
+
+If you found this project useful, consider giving the repository a **Star ⭐**. It helps others discover the project and supports my work.
