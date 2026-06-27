@@ -18,11 +18,8 @@ The dashboard provides insights into calories, sugar, caffeine, fat, protein, an
 
 ## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="images/dashboard.png" alt="Starbucks Beverage Nutrition Dashboard" width="100%">
-</p>
+<img width="1287" height="727" alt="Screenshot 2026-06-27 210327" src="https://github.com/user-attachments/assets/440cdb55-89a0-4509-8278-895d8aad24e9" />
 
-> **Note:** Replace `images/dashboard.png` with your uploaded dashboard screenshot or GitHub image URL.
 
 ---
 
