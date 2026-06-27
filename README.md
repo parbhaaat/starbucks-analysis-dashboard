@@ -17,7 +17,6 @@ The dashboard enables users to interactively explore beverage categories, compar
 
 > Add your dashboard screenshot here
 
-```
 <img width="1287" height="727" alt="Screenshot 2026-06-27 210327" src="https://github.com/user-attachments/assets/ab019e9d-ea97-4991-ab2a-2cff92f5cedf" />
 
 ```
